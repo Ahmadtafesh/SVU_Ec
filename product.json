@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Mens 5 Sports",
+        "price": 5000,
+        "image": "images/1.webp"
+    },
+    {
+        "id": 2,
+        "name": "TISSOT Mens PRX",
+        "price": 7000,
+        "image": "images/2.webp"
+    },
+    {
+        "id": 3,
+        "name": "SWATCH Black Rubber",
+        "price": 50,
+        "image": "images/3.webp"
+    },
+    {
+        "id": 4,
+        "name": "SEIKO Mens Prospex",
+        "price": 150,
+        "image": "images/4.webp"
+    },
+    {
+        "id": 5,
+        "name": "CASIOG-Shock",
+        "price": 150,
+        "image": "images/5.webp"
+    },
+    {
+        "id": 6,
+        "name": "SEIKO  1965 Diver's",
+        "price": 250,
+        "image": "images/6.webp"
+    },
+    {
+        "id": 7,
+        "name": "SWATCH Ultraciel Blue",
+        "price": 300,
+        "image": "images/f1.png"
+    },
+    {
+        "id": 8,
+        "name": "TISSOT Mens PRX",
+        "price": 400,
+        "image": "images/f2.png"
+    },
+    {
+        "id": 9,
+        "name": "CASIO G-Shock Master",
+        "price": 500,
+        "image": "images/f4.png"
+    }
+
+]
